@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "701050103767",
+    "project_id": "fire-setup-fb30f",
+    "storage_bucket": "fire-setup-fb30f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701050103767:android:591374e8f1aed9bea34d92",
+        "android_client_info": {
+          "package_name": "com.example.weatheraaaaa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxNpxeLq7mRCl8H0OQWwzj8HRQKLAonBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
